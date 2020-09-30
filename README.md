@@ -24,5 +24,5 @@ The application can be deployed locally on your server as well as Heroku.
 * (GitHub link)[https://github.com/abouelelas/fitness-tracker]
 
 ## Screenshot
-![Screenshot](/Users/Sarah/workspace/Homework/fitness-tracker/public/images/FitnesstrackerSS.png)
-![Screenshot](/Users/Sarah/workspace/Homework/fitness-tracker/public/images/fitnesstrackerSS2.png)
+![Screenshot](https://github.com/abouelelas/fitness-tracker/blob/master/public/images/FitnesstrackerSS.png)
+![Screenshot](https://github.com/abouelelas/fitness-tracker/blob/master/public/images/fitnesstrackerSS2.png)
